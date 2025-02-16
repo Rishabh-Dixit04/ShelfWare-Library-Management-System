@@ -1,4 +1,4 @@
-# Online Library Management System
+# ShelfWare Library Management System
 
 The Online Library Management System (OLMS) is built using system calls to perform diverse tasks such as managing processes, handling files, implementing file locking, managing multithreading, and facilitating interprocess communication. Socket programming is employed to establish client-server communication, enabling concurrent access to the library database by multiple clients.
 
